@@ -1,0 +1,39 @@
+{
+  "name": "formeo",
+  "version": "0.7.17",
+  "main": "dist/formeo.min.js",
+  "description": "A zero dependency JavaScript module for drag and drop form creation.",
+  "authors": [
+    "Kevin Chappell <kevin.b.chappell@gmail.com>"
+  ],
+  "keywords": [
+    "drag and drop",
+    "form builder",
+    "form maker",
+    "forms"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "javascript"
+  ],
+  "ignore": [
+    "*",
+    "!dist",
+    "!dist/**/*"
+  ],
+  "repository": {
+    "url": "http://github.com/draggable/formeo",
+    "type": "git"
+  },
+  "author": "Kevin Chappell <kevin.b.chappell@gmail.com>",
+  "homepage": "https://github.com/Draggable/formeo",
+  "_release": "0.7.17",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.7.17",
+    "commit": "c2d9ef9594fb411e451f132eff74fe4f546e929b"
+  },
+  "_source": "https://github.com/Draggable/formeo.git",
+  "_target": "^0.7.17",
+  "_originalSource": "formeo"
+}
